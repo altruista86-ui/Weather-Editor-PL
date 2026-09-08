@@ -65,4 +65,4 @@ Solight TE44
 BL999
 Bresser-3CH
 
-W naszej wersji jest więc 26 protokołów odbioru i 25 formatów edycji/TX — Oregon-v1 pozostaje protokołem tylko do odbioru
+Jest więc 26 protokołów odbioru i 25 formatów edycji/TX — Oregon-v1 pozostaje protokołem tylko do odbioru
